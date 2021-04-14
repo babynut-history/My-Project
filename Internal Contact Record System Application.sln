@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Internal Contact Record System Application", "Security System\Internal Contact Record System Application.vbproj", "{A5BA6D7B-381A-4463-9423-46D13A645959}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5BA6D7B-381A-4463-9423-46D13A645959}.Debug|x86.ActiveCfg = Debug|x86
+		{A5BA6D7B-381A-4463-9423-46D13A645959}.Debug|x86.Build.0 = Debug|x86
+		{A5BA6D7B-381A-4463-9423-46D13A645959}.Release|x86.ActiveCfg = Release|x86
+		{A5BA6D7B-381A-4463-9423-46D13A645959}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
